@@ -37,9 +37,6 @@ namespace Emailer
 
         private async void btn_send_Click(object sender, EventArgs e)
         {
-            //email - bombuwalarubberm@gmail.com    
-            //pw - rubbermills1!
-
 
             try
             {

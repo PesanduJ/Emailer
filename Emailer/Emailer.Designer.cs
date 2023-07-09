@@ -148,7 +148,7 @@
             // txt_from
             // 
             this.txt_from.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.txt_from.DefaultText = "roothaxo@gmail.com";
+            this.txt_from.DefaultText = "";
             this.txt_from.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
             this.txt_from.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
             this.txt_from.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
@@ -168,7 +168,7 @@
             // txt_password
             // 
             this.txt_password.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.txt_password.DefaultText = "Sectumsempra!";
+            this.txt_password.DefaultText = "";
             this.txt_password.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
             this.txt_password.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
             this.txt_password.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
